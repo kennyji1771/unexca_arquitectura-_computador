@@ -1,0 +1,10 @@
+Carpeta,Nombre del archivo,Descripencia,Usado en (clase/tema)
+Imagen,linea_tiempo.jpg,"Imagen de ejemplo para el tema ""Línea de tiempo colaborativa""",Clase 1 / Tema 1
+Imagen,despiece.jpg,"Imagen para ""Demostración en vivo: Despiece de un computador""",Clase 2 / Tema 1
+Imagen,ensamblaje.jpg,"Imagen para ""Práctica: Ensamblaje con pulsera antiestática""",Clase 2 / Tema 2
+Imagen,monedas.jpg,"Imagen para ""Analogía con monedas y billetes""",Clase 3 / Tema 1
+Imagen,interruptores.jpg,"Imagen para ""Juego de interruptores""",Clase 4 / Tema 1
+Imagen,circuito.jpg,"Imagen para ""Taller: Construyendo con compuertas""",Clase 4 / Tema 2
+audio,linea_tiempo.mp3,Audio de apoyo para el tema de línea de tiempo (opcional),Clase 1 / Tema 1
+audio,calculadora_humana.mp3,"Audio para ""Taller: La Calculadora Humana""",Clase 3 / Tema 2
+audio,eps.mp3,"Audio para ""Mapa conceptual: Entrada-Proceso-Salida""",Clase 1 / Tema 3

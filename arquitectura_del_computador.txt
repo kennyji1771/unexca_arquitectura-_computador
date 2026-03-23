@@ -1,0 +1,6 @@
+arquitectura_del_computador/
+├── index.html
+├── trayecto.json               (estructura completa del trayecto)
+├── Imagen/                     (carpeta con imágenes de los temas)
+├── audio/                      (carpeta con audios)
+└── (otros archivos como comunas.json, etc., si son necesarios)

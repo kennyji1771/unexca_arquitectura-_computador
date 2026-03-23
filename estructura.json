@@ -1,0 +1,175 @@
+{
+  "pnf": "Informática",
+  "trayectos": [
+    {
+      "id": "arquitectura",
+      "titulo": "Arquitectura del Computador",
+      "nivel": "Técnico Universitario Básico",
+      "duracion": "2 Semestres",
+      "semestres": [
+        {
+          "id": "sem1",
+          "titulo": "Semestre I: Fundamentos y Componentes de la Máquina",
+          "filosofia": "Conocer, Tocar, Comprender",
+          "clases": [
+            {
+              "id": "sem1_clase1",
+              "titulo": "Clase 1: Evolución Histórica y Generalidades del Sistema Informático",
+              "descripcion": "Recorrido por los hitos tecnológicos desde el ábaco hasta la computadora moderna. Se estudian las generaciones de computadoras y el modelo Entrada-Proceso-Salida.",
+              "archivos": [
+                { "nombre": "Presentación de la clase", "url": "https://drive.google.com/.../clase1_presentacion.pdf" },
+                { "nombre": "Línea de tiempo interactiva", "url": "https://drive.google.com/.../linea_tiempo.pdf" },
+                { "nombre": "Video: Historia de la computadora", "url": "https://www.youtube.com/watch?v=XXXX" }
+              ],
+              "temas": [
+                {
+                  "id": "t1_1",
+                  "titulo": "Línea de tiempo colaborativa",
+                  "contenido": {
+                    "texto": "Construye con tus compañeros una línea de tiempo física en el aula usando imágenes y datos clave (Ábaco, ENIAC, IBM PC, dispositivos actuales).",
+                    "imagen": "Imagen/linea_tiempo.jpg",
+                    "audio": "audio/linea_tiempo.mp3"
+                  },
+                  "consideraciones": [
+                    "Usa material reciclado para la línea de tiempo.",
+                    "Cada grupo debe presentar una era histórica."
+                  ]
+                },
+                {
+                  "id": "t1_2",
+                  "titulo": "Video-análisis: Evolución de las computadoras",
+                  "contenido": {
+                    "texto": "Observa el documental y responde la guía de preguntas sobre las generaciones de computadoras.",
+                    "video": "https://youtu.be/XXXX",
+                    "quiz": {
+                      "pregunta": "¿Qué tecnología marcó la transición de la primera a la segunda generación?",
+                      "opciones": ["Transistores", "Válvulas de vacío", "Circuitos integrados", "Microprocesadores"],
+                      "correcta": 0,
+                      "feedback": "¡Correcto! Los transistores reemplazaron a las válvulas de vacío, haciendo las computadoras más pequeñas y fiables."
+                    }
+                  },
+                  "consideraciones": [
+                    "El video está disponible en el canal del aula virtual.",
+                    "Las respuestas se entregan en formato digital."
+                  ]
+                },
+                {
+                  "id": "t1_3",
+                  "titulo": "Mapa conceptual: Entrada-Proceso-Salida (E-P-S)",
+                  "contenido": {
+                    "texto": "Construye un mapa conceptual con ejemplos cotidianos del ciclo E-P-S. Identifica entradas, procesos y salidas en un microondas, una calculadora y un mensaje de WhatsApp.",
+                    "imagen": "Imagen/mapa_eps.jpg",
+                    "audio": "audio/eps.mp3"
+                  },
+                  "consideraciones": [
+                    "Puede realizarse en papel o digital.",
+                    "Comparte tu mapa en el foro de la clase."
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sem1_clase2",
+              "titulo": "Clase 2: Componentes del Hardware, Ensamblaje y Normas de Seguridad",
+              "descripcion": "Identificación y manipulación de los componentes físicos de un computador. Normas de seguridad electrostática y técnicas de ensamblaje.",
+              "archivos": [
+                { "nombre": "Guía de seguridad y herramientas", "url": "https://drive.google.com/.../seguridad_ensamblaje.pdf" },
+                { "nombre": "Video: Despiece y ensamblaje", "url": "https://www.youtube.com/watch?v=YYYY" }
+              ],
+              "temas": [
+                {
+                  "id": "t2_1",
+                  "titulo": "Demostración en vivo: Despiece de un computador",
+                  "contenido": {
+                    "texto": "El instructor realiza el despiece completo de un computador mientras explica cada componente y su función.",
+                    "video": "https://youtu.be/YYYY",
+                    "imagen": "Imagen/despiece.jpg"
+                  },
+                  "consideraciones": [
+                    "Toma notas de los pasos de seguridad.",
+                    "Identifica al menos 5 componentes."
+                  ]
+                },
+                {
+                  "id": "t2_2",
+                  "titulo": "Práctica: Ensamblaje con pulsera antiestática",
+                  "contenido": {
+                    "texto": "En parejas, arman y desarman un computador siguiendo la guía, aplicando normas de seguridad.",
+                    "imagen": "Imagen/ensamblaje.jpg"
+                  },
+                  "consideraciones": [
+                    "Usa la pulsera antiestática en todo momento.",
+                    "Registra cada paso con fotos."
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sem1_clase3",
+              "titulo": "Clase 3: Sistemas Numéricos y Representación de Datos",
+              "descripcion": "Estudio de los sistemas binario, octal, hexadecimal y su relación con el mundo digital. Conversiones y representación de datos en computadoras.",
+              "archivos": [
+                { "nombre": "Tablas de conversión", "url": "https://drive.google.com/.../tablas_conversion.pdf" },
+                { "nombre": "Calculadora binaria en línea", "url": "https://www.rapidtables.com/convert/number/binary-to-decimal.html" }
+              ],
+              "temas": [
+                {
+                  "id": "t3_1",
+                  "titulo": "Analogía con monedas y billetes",
+                  "contenido": {
+                    "texto": "Explicación de sistemas numéricos usando diferentes monedas (sistema decimal vs. binario como 'tengo/no tengo').",
+                    "imagen": "Imagen/monedas.jpg"
+                  },
+                  "consideraciones": []
+                },
+                {
+                  "id": "t3_2",
+                  "titulo": "Taller: La Calculadora Humana",
+                  "contenido": {
+                    "texto": "Los estudiantes, usando tarjetas con dígitos binarios, se convierten en 'bits' y realizan conversiones en grupo moviéndose físicamente.",
+                    "audio": "audio/calculadora_humana.mp3"
+                  },
+                  "consideraciones": [
+                    "Crea una tarjeta con tu nombre en binario."
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sem1_clase4",
+              "titulo": "Clase 4: Lógica Digital y Circuitos Combinacionales",
+              "descripcion": "Principios de álgebra booleana, compuertas lógicas y diseño de circuitos combinacionales. Introducción a la simulación con software.",
+              "archivos": [
+                { "nombre": "Simulador Logisim", "url": "https://sourceforge.net/projects/circuit/" },
+                { "nombre": "Práctica: Tablas de verdad", "url": "https://drive.google.com/.../tablas_verdad.pdf" }
+              ],
+              "temas": [
+                {
+                  "id": "t4_1",
+                  "titulo": "Juego de interruptores",
+                  "contenido": {
+                    "texto": "Demostración física con interruptores y bombillas para representar compuertas AND, OR y NOT.",
+                    "imagen": "Imagen/interruptores.jpg"
+                  },
+                  "consideraciones": []
+                },
+                {
+                  "id": "t4_2",
+                  "titulo": "Taller: Construyendo con compuertas",
+                  "contenido": {
+                    "texto": "Uso de kits de electrónica básica para construir circuitos simples: AND, OR, NOT, XOR.",
+                    "imagen": "Imagen/circuito.jpg"
+                  },
+                  "consideraciones": [
+                    "Verifica la tabla de verdad de cada compuerta.",
+                    "Graba un video mostrando tu circuito funcionando."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
