@@ -9,160 +9,246 @@
       "semestres": [
         {
           "id": "sem1",
-          "titulo": "Semestre I: Fundamentos y Componentes de la Máquina",
-          "filosofia": "Conocer, Tocar, Comprender",
+          "titulo": "Semestre I: Fundamentos del Tao",
+          "filosofia": "Conocer la fuente, fluir sin forzar",
           "clases": [
             {
               "id": "sem1_clase1",
-              "titulo": "Clase 1: Evolución Histórica y Generalidades del Sistema Informático",
-              "descripcion": "Recorrido por los hitos tecnológicos desde el ábaco hasta la computadora moderna. Se estudian las generaciones de computadoras y el modelo Entrada-Proceso-Salida.",
-              "archivos": [
-                { "nombre": "Presentación de la clase", "url": "https://drive.google.com/.../clase1_presentacion.pdf" },
-                { "nombre": "Línea de tiempo interactiva", "url": "https://drive.google.com/.../linea_tiempo.pdf" },
-                { "nombre": "Video: Historia de la computadora", "url": "https://www.youtube.com/watch?v=XXXX" }
-              ],
+              "titulo": "El Camino Inefable",
+              "descripcion": "Capítulos 1–10",
+              "archivos": [],
               "temas": [
                 {
                   "id": "t1_1",
-                  "titulo": "Línea de tiempo colaborativa",
+                  "titulo": "El Tao que puede ser dicho no es el eterno Tao",
                   "contenido": {
-                    "texto": "Construye con tus compañeros una línea de tiempo física en el aula usando imágenes y datos clave (Ábaco, ENIAC, IBM PC, dispositivos actuales).",
-                    "imagen": "Imagen/linea_tiempo.jpg",
-                    "audio": "audio/linea_tiempo.mp3"
+                    "texto": "Naturaleza inefable del Tao; el origen de todo; el nombre que se puede nombrar no es el Nombre eterno."
                   },
                   "consideraciones": [
-                    "Usa material reciclado para la línea de tiempo.",
-                    "Cada grupo debe presentar una era histórica."
+                    "Reflexión sobre el silencio como camino de conocimiento."
                   ]
                 },
                 {
                   "id": "t1_2",
-                  "titulo": "Video-análisis: Evolución de las computadoras",
+                  "titulo": "La Virtud del No-Hacer (Wu Wei)",
                   "contenido": {
-                    "texto": "Observa el documental y responde la guía de preguntas sobre las generaciones de computadoras.",
-                    "video": "https://youtu.be/XXXX",
-                    "quiz": {
-                      "pregunta": "¿Qué tecnología marcó la transición de la primera a la segunda generación?",
-                      "opciones": ["Transistores", "Válvulas de vacío", "Circuitos integrados", "Microprocesadores"],
-                      "correcta": 0,
-                      "feedback": "¡Correcto! Los transistores reemplazaron a las válvulas de vacío, haciendo las computadoras más pequeñas y fiables."
-                    }
+                    "texto": "Acción sin acción, fluir con la naturaleza; el Sabio no se vanagloria y por eso brilla."
                   },
                   "consideraciones": [
-                    "El video está disponible en el canal del aula virtual.",
-                    "Las respuestas se entregan en formato digital."
-                  ]
-                },
-                {
-                  "id": "t1_3",
-                  "titulo": "Mapa conceptual: Entrada-Proceso-Salida (E-P-S)",
-                  "contenido": {
-                    "texto": "Construye un mapa conceptual con ejemplos cotidianos del ciclo E-P-S. Identifica entradas, procesos y salidas en un microondas, una calculadora y un mensaje de WhatsApp.",
-                    "imagen": "Imagen/mapa_eps.jpg",
-                    "audio": "audio/eps.mp3"
-                  },
-                  "consideraciones": [
-                    "Puede realizarse en papel o digital.",
-                    "Comparte tu mapa en el foro de la clase."
+                    "Ejercicio de observación de un día sin forzar resultados."
                   ]
                 }
               ]
             },
             {
               "id": "sem1_clase2",
-              "titulo": "Clase 2: Componentes del Hardware, Ensamblaje y Normas de Seguridad",
-              "descripcion": "Identificación y manipulación de los componentes físicos de un computador. Normas de seguridad electrostática y técnicas de ensamblaje.",
-              "archivos": [
-                { "nombre": "Guía de seguridad y herramientas", "url": "https://drive.google.com/.../seguridad_ensamblaje.pdf" },
-                { "nombre": "Video: Despiece y ensamblaje", "url": "https://www.youtube.com/watch?v=YYYY" }
-              ],
+              "titulo": "Naturaleza y Armonía",
+              "descripcion": "Capítulos 11–20",
+              "archivos": [],
               "temas": [
                 {
                   "id": "t2_1",
-                  "titulo": "Demostración en vivo: Despiece de un computador",
+                  "titulo": "El valor del vacío",
                   "contenido": {
-                    "texto": "El instructor realiza el despiece completo de un computador mientras explica cada componente y su función.",
-                    "video": "https://youtu.be/YYYY",
-                    "imagen": "Imagen/despiece.jpg"
+                    "texto": "Treinta radios convergen en un centro; la utilidad viene de lo que no está presente."
                   },
                   "consideraciones": [
-                    "Toma notas de los pasos de seguridad.",
-                    "Identifica al menos 5 componentes."
+                    "Identificar 'vacíos' útiles en tu vida (espacios de quietud)."
                   ]
                 },
                 {
                   "id": "t2_2",
-                  "titulo": "Práctica: Ensamblaje con pulsera antiestática",
+                  "titulo": "Sencillez y desapego",
                   "contenido": {
-                    "texto": "En parejas, arman y desarman un computador siguiendo la guía, aplicando normas de seguridad.",
-                    "imagen": "Imagen/ensamblaje.jpg"
+                    "texto": "Los cinco colores ciegan; los cinco sabores embotan. El Sabio cuida del vientre, no del ojo."
                   },
                   "consideraciones": [
-                    "Usa la pulsera antiestática en todo momento.",
-                    "Registra cada paso con fotos."
+                    "Práctica de minimalismo voluntario por un día."
                   ]
                 }
               ]
             },
             {
               "id": "sem1_clase3",
-              "titulo": "Clase 3: Sistemas Numéricos y Representación de Datos",
-              "descripcion": "Estudio de los sistemas binario, octal, hexadecimal y su relación con el mundo digital. Conversiones y representación de datos en computadoras.",
-              "archivos": [
-                { "nombre": "Tablas de conversión", "url": "https://drive.google.com/.../tablas_conversion.pdf" },
-                { "nombre": "Calculadora binaria en línea", "url": "https://www.rapidtables.com/convert/number/binary-to-decimal.html" }
-              ],
+              "titulo": "El Retorno y la Flexibilidad",
+              "descripcion": "Capítulos 21–30",
+              "archivos": [],
               "temas": [
                 {
                   "id": "t3_1",
-                  "titulo": "Analogía con monedas y billetes",
+                  "titulo": "El movimiento del Tao es el retorno",
                   "contenido": {
-                    "texto": "Explicación de sistemas numéricos usando diferentes monedas (sistema decimal vs. binario como 'tengo/no tengo').",
-                    "imagen": "Imagen/monedas.jpg"
+                    "texto": "Cuando las cosas florecen, retornan a su raíz. Conocer lo eterno es visión."
                   },
-                  "consideraciones": []
+                  "consideraciones": [
+                    "Registrar un ciclo natural de tu entorno."
+                  ]
                 },
                 {
                   "id": "t3_2",
-                  "titulo": "Taller: La Calculadora Humana",
+                  "titulo": "Lo blando y débil triunfa sobre lo duro",
                   "contenido": {
-                    "texto": "Los estudiantes, usando tarjetas con dígitos binarios, se convierten en 'bits' y realizan conversiones en grupo moviéndose físicamente.",
-                    "audio": "audio/calculadora_humana.mp3"
+                    "texto": "Lo que ha de contraerse debe primero dilatarse; lo que ha de debilitarse debe primero fortalecerse."
                   },
                   "consideraciones": [
-                    "Crea una tarjeta con tu nombre en binario."
+                    "Diario de situaciones donde la flexibilidad obtuvo mejor resultado que la rigidez."
                   ]
                 }
               ]
             },
             {
               "id": "sem1_clase4",
-              "titulo": "Clase 4: Lógica Digital y Circuitos Combinacionales",
-              "descripcion": "Principios de álgebra booleana, compuertas lógicas y diseño de circuitos combinacionales. Introducción a la simulación con software.",
-              "archivos": [
-                { "nombre": "Simulador Logisim", "url": "https://sourceforge.net/projects/circuit/" },
-                { "nombre": "Práctica: Tablas de verdad", "url": "https://drive.google.com/.../tablas_verdad.pdf" }
-              ],
+              "titulo": "El Sabio y el Gobierno",
+              "descripcion": "Capítulos 31–40",
+              "archivos": [],
               "temas": [
                 {
                   "id": "t4_1",
-                  "titulo": "Juego de interruptores",
+                  "titulo": "No dominar el mundo mediante la fuerza",
                   "contenido": {
-                    "texto": "Demostración física con interruptores y bombillas para representar compuertas AND, OR y NOT.",
-                    "imagen": "Imagen/interruptores.jpg"
+                    "texto": "Un ejército poderoso tiende a caer por su propio peso. Donde acampan ejércitos crecen zarzas."
                   },
-                  "consideraciones": []
+                  "consideraciones": [
+                    "Analizar un conflicto cotidiano desde el no‑uso de la fuerza."
+                  ]
                 },
                 {
                   "id": "t4_2",
-                  "titulo": "Taller: Construyendo con compuertas",
+                  "titulo": "La humildad como raíz de la grandeza",
                   "contenido": {
-                    "texto": "Uso de kits de electrónica básica para construir circuitos simples: AND, OR, NOT, XOR.",
-                    "imagen": "Imagen/circuito.jpg"
+                    "texto": "Lo elevado ha de construirse sobre lo humilde; los señores se llaman a sí mismos 'El Desvalido', 'El Ignorante'."
                   },
                   "consideraciones": [
-                    "Verifica la tabla de verdad de cada compuerta.",
-                    "Graba un video mostrando tu circuito funcionando."
+                    "Practicar un acto de humildad deliberada."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sem2",
+          "titulo": "Semestre II: Aplicación en la Vida y la Sociedad",
+          "filosofia": "Vivir con compasión, sobriedad y no‑lucha",
+          "clases": [
+            {
+              "id": "sem2_clase1",
+              "titulo": "El Tao y la Vida Cotidiana",
+              "descripcion": "Capítulos 41–50",
+              "archivos": [],
+              "temas": [
+                {
+                  "id": "t5_1",
+                  "titulo": "El Gran Sonido es silencioso",
+                  "contenido": {
+                    "texto": "El Camino claro parece oscuro; la gran elocuencia suena tartamuda. El Tao está oculto."
+                  },
+                  "consideraciones": [
+                    "Escuchar un día en silencio para captar lo no dicho."
+                  ]
+                },
+                {
+                  "id": "t5_2",
+                  "titulo": "La Maternidad del Tao",
+                  "contenido": {
+                    "texto": "Tras conocer a la Madre (el origen), conocerás a los hijos. Retornar y preservar a la Madre es seguridad."
+                  },
+                  "consideraciones": [
+                    "Meditación sobre tu propia 'fuente' personal."
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sem2_clase2",
+              "titulo": "Virtud y Compasión",
+              "descripcion": "Capítulos 51–60",
+              "archivos": [],
+              "temas": [
+                {
+                  "id": "t6_1",
+                  "titulo": "Los Tres Tesoros",
+                  "contenido": {
+                    "texto": "Compasión (puede hacerte valiente), sobriedad (te hace generoso), no osar ser el primero (te hace líder)."
+                  },
+                  "consideraciones": [
+                    "Elegir un tesoro y practicarlo conscientemente durante tres días."
+                  ]
+                },
+                {
+                  "id": "t6_2",
+                  "titulo": "Gobernar como cocinar un pescado pequeño",
+                  "contenido": {
+                    "texto": "Gobernar un gran reino es como cocinar un pescado pequeño: con cuidado, sin remover en exceso."
+                  },
+                  "consideraciones": [
+                    "Aplicar este principio a la gestión de un grupo o proyecto."
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sem2_clase3",
+              "titulo": "El No‑Hacer y la Simplicidad",
+              "descripcion": "Capítulos 61–70",
+              "archivos": [],
+              "temas": [
+                {
+                  "id": "t7_1",
+                  "titulo": "Practica el No‑Hacer, esfuérzate por el No‑Esfuerzo",
+                  "contenido": {
+                    "texto": "Lo grande nace de lo pequeño; las cosas difíciles se abordan cuando son fáciles."
+                  },
+                  "consideraciones": [
+                    "Desglosar una tarea compleja en pasos mínimos."
+                  ]
+                },
+                {
+                  "id": "t7_2",
+                  "titulo": "Mis palabras son fáciles de entender",
+                  "contenido": {
+                    "texto": "Aunque el mundo no las comprenda, el Sabio lleva burdas ropas mientras guarda un jade en su pecho."
+                  },
+                  "consideraciones": [
+                    "Redactar una idea profunda con las palabras más simples posibles."
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sem2_clase4",
+              "titulo": "Armonía con el Cielo y la Tierra",
+              "descripcion": "Capítulos 71–81",
+              "archivos": [],
+              "temas": [
+                {
+                  "id": "t8_1",
+                  "titulo": "La red del cielo",
+                  "contenido": {
+                    "texto": "El que es valiente sin temeridad sobrevive; el valiente temerario perece. La red del cielo es amplia, pero nada escapa."
+                  },
+                  "consideraciones": [
+                    "Identificar una situación donde la audacia sin arrogancia dio frutos."
+                  ]
+                },
+                {
+                  "id": "t8_2",
+                  "titulo": "El agua y la suavidad",
+                  "contenido": {
+                    "texto": "Nada en el mundo es más blando que el agua, pero nada supera a lo duro y fuerte. La verdad parece su opuesto."
+                  },
+                  "consideraciones": [
+                    "Observar el agua en la naturaleza y describir sus enseñanzas."
+                  ]
+                },
+                {
+                  "id": "t8_3",
+                  "titulo": "Palabras sinceras no son agradables",
+                  "contenido": {
+                    "texto": "Las palabras agradables no son sinceras; la Ley del Sabio es cumplir su deber, no luchar contra nadie."
+                  },
+                  "consideraciones": [
+                    "Dar una retroalimentación honesta pero constructiva."
                   ]
                 }
               ]
